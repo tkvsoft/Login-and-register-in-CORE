@@ -15,7 +15,7 @@ Simple login and register in CORE PHP
 #### Functions
 
 
--- ## Table structure for table `users`
+## Table structure for table `users`
 
 CREATE TABLE `users` (
   `uid` int(10) NOT NULL,
